@@ -1,4 +1,4 @@
-# Changelog
+# 变更日志
 
 ## JavaScript 和 TypeScript 在中文
 
