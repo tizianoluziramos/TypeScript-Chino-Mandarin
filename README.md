@@ -11,13 +11,9 @@
    在 TypeScript 中导入：
 import * as chinese from './importar.ts';
 
-Copiar código
-
 或者如果你使用 JavaScript：
 import * as chinese from './importar.js';
 
-shell
-Copiar código
 
 ### 使用
 1. 输入 chinese.*（你想使用的命令）
